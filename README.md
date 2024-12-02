@@ -16,8 +16,8 @@ Does this model comply with the European AI Act?
 If you use this library implementation for your research or projects, please consider using this cite:
 ```
 @software{asif_khan_2024_11_14,
-  author       = {Asif Khan},
-  title        = {fisakhan/RaspberryFace: v1.0.0},
+  author       = {jason},
+  title        = {jason/RaspberryFaceRecognition: v1.0.0},
   month        = Nov,
   year         = 2024,
   publisher    = {},
